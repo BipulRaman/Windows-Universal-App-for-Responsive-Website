@@ -18,3 +18,6 @@ Edit Menifest file (Line 32- 36) as --
 
 Step - 4:
 Save, Build, Deploy and Test. 
+
+# License
+All files within this repo are released under the [MIT (OSI) License]( https://en.wikipedia.org/wiki/MIT_License) as per the [LICENSE file](./LICENSE) stored in the root of this repo. 
